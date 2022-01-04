@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamdam23
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning Java and related fields
+- 🌱 I’m currently working on side projects in Java and related fields
 
 <!---
 Hamdam23/Hamdam23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
