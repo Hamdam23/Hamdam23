@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamdam23
+- 👋 Hi, I’m Hamdam
 - 👀 I’m interested in CS
 - 🌱 I’m currently working on pet-projects in Java and related fields
 
