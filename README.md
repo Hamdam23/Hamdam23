@@ -1,4 +1,4 @@
-![Live Streaming](https://user-images.githubusercontent.com/90045606/187893678-0eeeda92-de7c-4ca3-a628-fd1332024401.jpg)
+![Live Streaming](https://user-images.githubusercontent.com/90045606/187989925-8736b13d-c3da-4950-a829-744d563a5b9c.jpg)
 
 - 👋 name: hamdam
 - 👀 status: junior backend developer @ Uzinfocom
