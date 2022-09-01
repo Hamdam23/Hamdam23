@@ -18,9 +18,9 @@ Here you can find me on LinkedIn <a href="https://www.linkedin.com/in/hamdam-xud
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hamdam23&theme=onedark)](https://github.com/Hamdam23/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamdam23)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdam23&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamdam23&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Hamdam23&color=green&style=flat-square)
 
