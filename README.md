@@ -1,7 +1,6 @@
-<h4 align="left">I am Hamdam - I am really not into writing bios</h3>
-
-- 👀 status: junior backend developer @ Uzinfocom
-- 🌱 stack: Java(18) / Spring Boot
+- :v: name: hamdam
+- :eyes: status: junior backend developer @ Uzinfocom
+- :bone: stack: Java(18) / Spring Boot
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
